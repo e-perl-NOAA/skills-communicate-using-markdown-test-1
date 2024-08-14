@@ -5,6 +5,15 @@
 
 Regular text
 
+### Add List
+- [x] Item 1
+- [x] Item 2
+- [ ] Item 3
+
+### Bullet list
+- list item 1
+- list item 2
+  
 **Bold text**
 
 *Italicized text*
