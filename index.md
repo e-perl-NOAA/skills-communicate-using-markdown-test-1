@@ -5,6 +5,22 @@
 
 Regular text
 
+**Bold text**
+
+*Italicized text*
+
+***Bold/Italics***
+
+🎂
+
+:bowtie:
+
+```
+library(dplyr)
+newdata <- mtcars |> dplyr::filter(mpg > 20)
+print("Hello World!")
+```
+
 ![Octocat Manufacturecat](https://octodex.github.com/images/manufacturetocat.png)
 
 <!--- Different sized image ---> 
