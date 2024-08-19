@@ -1,5 +1,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/e-perl-NOAA/skills-communicate-using-markdown)
 
+[Link to github page](https://github.com/e-perl-NOAA)
 
 New text
 
@@ -21,9 +22,23 @@ Regular text
   
 **Bold text**
 
+__Some more bold text__
+
 *Italicized text*
 
+_Some more italics text_
+
 ***Bold/Italics***
+___Some more bold and italics text___
+
+> Block quotes
+
+> ## Block quotes with other elements
+> Such as text
+> - And a list
+> - With items
+
+
 
 🎂
 
